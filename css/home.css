@@ -59,7 +59,7 @@ html, body {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background: url('img/perfil.jpeg') no-repeat center;
+    background: url('../img/perfil.jpeg') no-repeat center;
     background-size: cover;
   }
   
@@ -85,7 +85,7 @@ html, body {
     position: relative;
     width: calc(100% - 40px);
     height: 250px;
-    background: url('img/hamburguesa.webp') no-repeat center;
+    background: url('../img/hamburguesa.webp') no-repeat center;
     background-size: cover;
     margin: 20px 20px 10px;
     border-radius: 20px;
