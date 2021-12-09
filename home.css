@@ -17,7 +17,7 @@ html, body {
     justify-content: center;
     width: 100%;
     padding: 30px 0;
-    background-color: #EAF4F2;
+    background-color: #f9f9f9;
   }
   
   .device {
@@ -59,7 +59,7 @@ html, body {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background: url(https://images.unsplash.com/photo-1591084728795-1149f32d9866?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80) no-repeat center;
+    background: url('img/perfil.jpeg') no-repeat center;
     background-size: cover;
   }
   
@@ -85,7 +85,7 @@ html, body {
     position: relative;
     width: calc(100% - 40px);
     height: 250px;
-    background: url('https://media.giphy.com/media/1zkrF3l0RfgapqdySj/giphy.gif') no-repeat center;
+    background: url('img/hamburguesa.webp') no-repeat center;
     background-size: cover;
     margin: 20px 20px 10px;
     border-radius: 20px;
