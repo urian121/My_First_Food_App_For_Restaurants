@@ -26,6 +26,7 @@ $(function() {
         $('.recipes').html('<center><img src="img/cargando.gif" style="left:50%; right: 50%; margin-top: 25%; width:80px;"/></center>');
  
         /*
+        Otra forma de hacerlo si no deseas Usar AJAX
         $.post('comidas.php', {'comida': ValorSeleccion }, function(data) {
             $(".recipes").html(data);
         });*/
